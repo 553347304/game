@@ -1,0 +1,37 @@
+@mixin md-editor($center: false) {
+  > .md-editor {
+	background-color: inherit;
+
+	@if $center {
+	  display: flex;
+	  justify-content: center; /* 水平居中 */
+	  align-items: center; /* 垂直居中 */
+	  padding: 10px 20px;
+	}
+
+
+	.md-editor-preview-wrapper {
+	  padding: 0;
+
+	  .md-editor-preview {
+		img {
+		  padding: 0;
+		  border: none;
+		}
+
+		p {
+		  margin: 0;
+		}
+
+		.md-editor-code {
+		  pre {
+			white-space: pre-wrap;
+			word-wrap: break-word;
+			max-width: 100%;
+			overflow: auto;
+		  }
+		}
+	  }
+	}
+  }
+}
