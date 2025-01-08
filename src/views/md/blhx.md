@@ -12,6 +12,8 @@
 | 其他教程          | https://www.123pan.com/s/VvHfjv-jmBmd.html |
 | 小滴云ios        | https://www.xdyun.com/article/101116       |
 | 小滴云TestFlight | https://www.xdyun.com/article/101231       |
+| 小滴云ios购买界面    | https://www.xdyun.com/web/mobile/buy       |
+
 
 | 常见问题     | 解决方案            |
 |----------|-----------------|
@@ -21,4 +23,4 @@
 
 ## 脚本界面
 
-![](https://vip.123pan.cn/1821560246/11005178)
+![](https://vip.123pan.cn/1821560246/11575651)
