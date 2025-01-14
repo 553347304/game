@@ -2,7 +2,7 @@
 
 | 脚本    | 价格     | 下载链接                                      |
 |-------|--------|-------------------------------------------|
-| 碧蓝航线  |        | https://vip.123pan.cn/1821560246/10984940 |
+| 碧蓝航线  | 免费     | https://vip.123pan.cn/1821560246/10984940 |
 | 小滴云   | 30/月左右 | https://www.xdyun.com/                    |
 | 雷电模拟器 |        | https://www.ldmnq.com/                    |
 
@@ -13,7 +13,6 @@
 | 小滴云ios        | https://www.xdyun.com/article/101116       |
 | 小滴云TestFlight | https://www.xdyun.com/article/101231       |
 | 小滴云ios购买界面    | https://www.xdyun.com/web/mobile/buy       |
-
 
 | 常见问题     | 解决方案            |
 |----------|-----------------|

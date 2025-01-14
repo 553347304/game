@@ -1,6 +1,6 @@
 body {
 	--nav_text_color: white;
-	--color_text_1: #393939;
+	--color_text_1: #42b983;
 }
 
 body[arco-theme="dark"] {
