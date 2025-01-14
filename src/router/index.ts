@@ -12,6 +12,7 @@ const router = createRouter({
                 {path: "jh", name: "jh", component: () => import('../views/web/jh.vue'),},
                 {path: "slwz", name: "slwz", component: () => import('../views/web/slwz.vue'),},
                 {path: "blhx", name: "blhx", component: () => import('../views/web/blhx.vue'),},
+                {path: "doc", name: "doc", component: () => import('../views/web/doc.vue'),},
             ]
         },
     ]
