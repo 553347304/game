@@ -1,4 +1,12 @@
-# shell命令进入文件极客管理器，不会自动跳到指定的文件夹
+# `问题1` Root权限获取失败  AutoGo
+
+### 我刚才还能打开,这会直接打不开了 `应用审核中`
+
+### 问题图 https://vip.123pan.cn/1821560246/11665392
+
+### APK测试软件 https://vip.123pan.cn/1821560246/11665394
+
+# `问题2` shell命令进入文件极客管理器，不会自动跳到指定的文件夹
 
 ### 视频 https://vip.123pan.cn/1821560246/11663201
 
@@ -17,7 +25,7 @@ let is = shell(`am start -a android.intent.action.VIEW -d file://${pack} -t "res
 if (is.error !== "") shell(`am start -a android.intent.action.VIEW -d file://${pack} -n ${activity}`, true); // 文件极客
 ```
 
-# 小滴云我在内部录屏，保存的视频看不了
+# `问题3` 小滴云我在内部录屏，保存的视频看不了
 
 ### 视频 https://vip.123pan.cn/1821560246/11663178
 
